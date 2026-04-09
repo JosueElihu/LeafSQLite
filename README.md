@@ -85,4 +85,7 @@ This project is actively evolving.
 ## 📜 License
 
  MIT
-
+ ##  Screenshots
+![Main](screenshots/ss_001.png)
+![Main](screenshots/ss_002.png)
+![Main](screenshots/ss_03.png)
